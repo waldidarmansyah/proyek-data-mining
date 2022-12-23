@@ -1,7 +1,7 @@
 # proyek-data-mining
 
 kelompok 5 :
-
+Waldi Darmansyah (2000018159)
 
 
 Dataset yang kami pilih adalah data sekolah indonesia, data.csv Sumber data:
