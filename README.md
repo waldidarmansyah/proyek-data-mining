@@ -1,6 +1,6 @@
 # proyek-data-mining
 
-kelompok 5 :
+kelompok 5 : klustering
 
 -Waldi Darmansyah (2000018159)
 
