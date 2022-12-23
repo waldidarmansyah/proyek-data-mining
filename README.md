@@ -1,8 +1,8 @@
 # proyek-data-mining
 
 kelompok 5 :
-Waldi Darmansyah (2000018159)
 
+Waldi Darmansyah (2000018159)
 Rasyid Rahman (2000018175)
 
 
